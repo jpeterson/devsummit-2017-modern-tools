@@ -11,6 +11,12 @@ postman.setEnvironmentVariable("objectId", jsonData.addResults[0].objectId);
 ```
 
 
+
+Tests:
+```
+tests['Added succesfully'] = responseBody.has('"success":true')
+```
+
 Code:
 
 ```
@@ -38,11 +44,4 @@ var settings = {
 $.ajax(settings).done(function (response) {
   console.log(response);
 });
-```
-
-
-Tests:
-
-```
-tests['Added succesfully'] = responseBody.has('"success":true')
 ```
