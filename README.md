@@ -5,6 +5,6 @@ In this talk, we’ll share some of our favorite tools as front-end developers. 
 
 [Slides](http://slides.com/joshpeterson/devsummit17)
 
-Recording (coming soon)
+[Recording](https://www.youtube.com/embed/Cej5JMotDX0)
 
 [How to Tame your Web App Blog Series](https://geonet.esri.com/people/jpeterson-esristaff/blog/2017/03/07/how-to-tame-your-web-app-the-plan)
